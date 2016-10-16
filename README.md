@@ -1,6 +1,6 @@
 # mini-helloworld-httpd
 
-A minimal 'Hello World' docker container, written in C and compiled statically with musl. Code stolen from [Rosetta Code](https://rosettacode.org/wiki/Hello_world/Web_server#C)
+A 23.54 kB 'Hello World' docker container, written in C and compiled statically with musl. Code stolen from [Rosetta Code](https://rosettacode.org/wiki/Hello_world/Web_server#C)
 
 ```
 $ docker images | grep mini-httpd
